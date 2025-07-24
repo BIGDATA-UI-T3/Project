@@ -1,0 +1,104 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram id="rVDEocGkngXMyg3_VMqb" name="회원가입 명세서">
+    <mxGraphModel dx="1753" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-232" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="760" height="798" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-233" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K6dPzLNvgxhF_e_WrW4I-232" vertex="1">
+          <mxGeometry width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-234" value="&amp;lt;&amp;lt;USECASE명세서&amp;gt;&amp;gt;&lt;div&gt;유스케이스명 : 회원가입&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" parent="K6dPzLNvgxhF_e_WrW4I-233" vertex="1">
+          <mxGeometry width="760" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-235" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="K6dPzLNvgxhF_e_WrW4I-233" vertex="1" visible="0">
+          <mxGeometry x="70" width="690" height="40" as="geometry">
+            <mxRectangle width="690" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-236" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K6dPzLNvgxhF_e_WrW4I-232" vertex="1">
+          <mxGeometry y="40" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-237" value="목표" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="K6dPzLNvgxhF_e_WrW4I-236" vertex="1">
+          <mxGeometry width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-238" value="비회원이 개인정보를 입력하여 회원이 될 수 있게하는 작업" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;spacingTop=0;spacingLeft=5;" parent="K6dPzLNvgxhF_e_WrW4I-236" vertex="1">
+          <mxGeometry x="70" width="690" height="40" as="geometry">
+            <mxRectangle width="690" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-239" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K6dPzLNvgxhF_e_WrW4I-232" vertex="1">
+          <mxGeometry y="80" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-240" value="엑터" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="K6dPzLNvgxhF_e_WrW4I-239" vertex="1">
+          <mxGeometry width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-241" value="비회원" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;spacingTop=0;spacingLeft=5;" parent="K6dPzLNvgxhF_e_WrW4I-239" vertex="1">
+          <mxGeometry x="70" width="690" height="40" as="geometry">
+            <mxRectangle width="690" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-242" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K6dPzLNvgxhF_e_WrW4I-232" vertex="1">
+          <mxGeometry y="120" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-243" value="사전 조건" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="K6dPzLNvgxhF_e_WrW4I-242" vertex="1">
+          <mxGeometry width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-244" value="회원이 아닌 사용자가 회원가입 버튼을 눌러 회원가입페이지로 이동한다." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;spacingTop=0;spacingLeft=5;" parent="K6dPzLNvgxhF_e_WrW4I-242" vertex="1">
+          <mxGeometry x="70" width="690" height="40" as="geometry">
+            <mxRectangle width="690" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-245" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K6dPzLNvgxhF_e_WrW4I-232" vertex="1">
+          <mxGeometry y="160" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-246" value="사후 처리" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="K6dPzLNvgxhF_e_WrW4I-245" vertex="1">
+          <mxGeometry width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-247" value="시스템은 회원가입 메세지와 메인페이지로 이동이 되는 확인 버튼을 보여준다." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;spacingTop=0;spacingLeft=5;" parent="K6dPzLNvgxhF_e_WrW4I-245" vertex="1">
+          <mxGeometry x="70" width="690" height="40" as="geometry">
+            <mxRectangle width="690" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-248" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K6dPzLNvgxhF_e_WrW4I-232" vertex="1">
+          <mxGeometry y="200" width="760" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-249" value="기본흐름" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="K6dPzLNvgxhF_e_WrW4I-248" vertex="1">
+          <mxGeometry width="70" height="216" as="geometry">
+            <mxRectangle width="70" height="216" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-250" value="1. 비회원이 이름과 전화번호를 입력하여 회원가입상태인지 확인한다.&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;비회원이&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;회원 가입을 요청한다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;비회원이&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;회원 약관을 보여준다&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;비회원이&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;회원 약관에 동의한다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;비회원이&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;회원 정보 입력항목을 보여준다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;6.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;비회원이&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;회원 정보, 항목을 입력하고 등록을 요청한다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;7. 시스템이 입력된 정보를 확인한다.&lt;/div&gt;&lt;div&gt;8. 시스템이 회원 정보를 저장, 등록한다.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;spacingTop=0;spacingLeft=5;" parent="K6dPzLNvgxhF_e_WrW4I-248" vertex="1">
+          <mxGeometry x="70" width="690" height="216" as="geometry">
+            <mxRectangle width="690" height="216" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-254" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K6dPzLNvgxhF_e_WrW4I-232" vertex="1">
+          <mxGeometry y="416" width="760" height="382" as="geometry" />
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-255" value="예외흐름" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="K6dPzLNvgxhF_e_WrW4I-254" vertex="1">
+          <mxGeometry width="70" height="382" as="geometry">
+            <mxRectangle width="70" height="382" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6dPzLNvgxhF_e_WrW4I-256" value="1-a 이미 가입된 회원인 경우 시스템이 &quot;이미 가입된 회원입니다&quot; 메세지를 화면에 출력한다.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4-a 필수회원약관항목에 동의를 하지않은 경우 아무런 동작도 발생하지 않는다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6-a 아이디가 중복인 경우 시스템이 &quot;아이디가 중복됬습니다&quot; 메세지를 화면에 출력한다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6-b 비밀번호유형에 맞지않는 비밀번호를 등록요청할 경우 시스템이 &quot;비밀번호 형식이 맞지않습니다&quot; 메세지를 화면에 출력한다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6-c 비밀번호중복 항목에 비밀번호항목과 같은내용이 아닐 경우 해당위치로 화면이 이동되고 빨간외곽선효과로 하이라이트한다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6-d 이메일 형식에 맞지않은 이메일을 입력한 경우 시스템이 &quot;이메일이 형식에 맞지않습니다&quot; 메세지를 화면에 출력한다.&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;spacingTop=0;spacingLeft=5;" parent="K6dPzLNvgxhF_e_WrW4I-254" vertex="1">
+          <mxGeometry x="70" width="690" height="382" as="geometry">
+            <mxRectangle width="690" height="382" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
